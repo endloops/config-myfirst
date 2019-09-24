@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/endloops/config-myfirst.git
+          username: endloops
+          password: 153246w@
+          default-label: master
+          search-paths: config
+server:
+  port: 1071
