@@ -23,4 +23,4 @@ logging:
   pattern:
     level: debug
     
-foo: ASDFGHJsdsadadad
+foo: hi
