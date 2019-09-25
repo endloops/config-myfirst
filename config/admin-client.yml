@@ -21,6 +21,6 @@ management:
       show-details: always
 logging:
   pattern:
-    level: info
+    level: debug
     
 foo: ASDFGHHJK
